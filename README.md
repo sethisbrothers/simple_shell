@@ -1,5 +1,4 @@
 
-![Holberton school logo](https://secure.meetupstatic.com/photos/event/b/c/5/6/highres_475548214.jpeg)
 # simple_shell project repository
 
 This repository contains the files for Holberton's **simple_shell**. It can be compiled using GCC and will execute a simple shell that can be used for some basic tasks and programs most commonly found in the /bin/ folder.
@@ -89,8 +88,3 @@ README.md: this.
 
 <a href="https://ibb.co/1MMmc0J"><img src="https://i.ibb.co/5kkRZ1x/Untitled-Diagram.png" alt="Untitled-Diagram" border="0"></a>
 
-### Contact Info:
-
-Git: [Camilo Baquero](https://github.com/camilooob), [Sergio Pietri](https://github.com/Virteip)
-
-Twitter: [@camilooob](https://twitter.com/camilooob),  [@sergiopietri](https://twitter.com/sergiopietri)
